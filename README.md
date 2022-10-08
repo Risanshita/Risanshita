@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
 
- <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a> 
- <img src="https://komarev.com/ghpvc/?username=risanshita&label=Profile%20views&color=0e75b6&style=flat" alt="risanshita" /> 
+<p align="center"> <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a>
+ <img src="https://komarev.com/ghpvc/?username=risanshita&label=Profile%20views&color=0e75b6&style=flat" alt="risanshita" /> </p>
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
 - 🌱 I’m currently Improving **My Web development ant Overall Knowledge**
 - 👯 I’m looking to collaborate on **content creators**
