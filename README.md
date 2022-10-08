@@ -1,12 +1,12 @@
 <h1 align="center">Hi There👋, I'm Rishi Kumar</h1>
 <h3 align="center">I am Senior Software Engineer at Solution by Text</h3>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNxQj8mNdF3PndnsCBuAESfgjzPX4p6MuCi8SDnCCjDxqKwFoIwgvM0uBWu2NDlprlNS9X1-hXyFbjxzC6Tr97AWnsUX-U8QUhhMuQAox4fUpGD41_4vsnBZyBI1qVM49SCZgzCZ_AdeL4H6xgLyVtBIyajPVnDWYPay5i-LlRtwZTygc3uh98U4gG/s1829/Rishi%20Kumar.png" alt="Rishi Kumar" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risanshita&label=Profile%20views&color=0e75b6&style=flat" alt="risanshita" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a> </p>
-
+ <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a> 
+ <img src="https://komarev.com/ghpvc/?username=risanshita&label=Profile%20views&color=0e75b6&style=flat" alt="risanshita" /> 
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
 - 🌱 I’m currently Improving **My Web development ant Overall Knowledge**
 - 👯 I’m looking to collaborate on **content creators**
