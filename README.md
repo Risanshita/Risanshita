@@ -3,9 +3,9 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNxQj8mNdF3PndnsCBuAESfgjzPX4p6MuCi8SDnCCjDxqKwFoIwgvM0uBWu2NDlprlNS9X1-hXyFbjxzC6Tr97AWnsUX-U8QUhhMuQAox4fUpGD41_4vsnBZyBI1qVM49SCZgzCZ_AdeL4H6xgLyVtBIyajPVnDWYPay5i-LlRtwZTygc3uh98U4gG/s1829/Rishi%20Kumar.png" alt="Rishi Kumar" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risanshita&label=Profile%20views&color=0e75b6&style=flat" alt="risanshita" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risanshita" alt="risanshita" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a> </p>
+<p align="center"> <a href="https://twitter.com/risanshita" target="blank"><img src="https://img.shields.io/twitter/follow/risanshita?logo=twitter&style=for-the-badge" alt="risanshita" /></a> </p>
 
 - 🔭 I’m currently working on [IOT Car and IOT Devices](https://codesikhe.com/)
 - 🌱 I’m currently Improving **My Web development ant Overall Knowledge**
@@ -18,10 +18,6 @@
 - 📄 Know about my experiences [https://risanshita.blogspot.com/](https://risanshita.blogspot.com/)
 - ⚡ I am Interested **Play Video Game , Coding, Learn New Technology**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +29,7 @@
 <a href="https://instagram.com/risanshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="risanshita" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/risanshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="risanshita" height="30" width="40" /></a>
 </p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
